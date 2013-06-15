@@ -1,0 +1,3 @@
+== BuzzFizz
+
+Sample solution to buzzfizz problem using rspec to test.
